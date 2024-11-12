@@ -1,0 +1,5 @@
+2024-11-12 15:18:28,910 - root - INFO - Namespace(data='wikipedia', bs=200, prefix='hello_world', n_degree=20, n_head=2, n_epoch=10, n_layer=2, lr=1e-05, drop_out=0.1, gpu=0, node_dim=100, time_dim=100, agg_method='attn', attn_mode='prod', time='time', uniform=True)
+2024-11-12 15:18:29,266 - module - INFO - Aggregation uses attention model
+2024-11-12 15:18:29,278 - module - INFO - Using scaled prod attention
+2024-11-12 15:18:29,287 - module - INFO - Using scaled prod attention
+2024-11-12 15:18:29,287 - module - INFO - Using time encoding
